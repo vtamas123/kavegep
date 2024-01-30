@@ -21,9 +21,8 @@ namespace kavegep
                 }
             }
             Console.WriteLine();
-            Console.WriteLine("Kati Bela "  );
-            int a = 2;
-
+            Console.ReadLine();
+            int a = 222;
         }
     }
 }
