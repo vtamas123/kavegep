@@ -15,7 +15,10 @@ namespace kavegep
             Console.WriteLine();
             for (int i = 0; i < 15; i++)
             {
-                
+                if (true)
+                {
+                    
+                }
             }
             Console.WriteLine();
         }
