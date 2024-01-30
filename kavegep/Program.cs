@@ -22,6 +22,7 @@ namespace kavegep
             }
             Console.WriteLine();
             Console.ReadLine();
+            int a = 222;
         }
     }
 }
