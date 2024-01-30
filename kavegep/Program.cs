@@ -21,6 +21,7 @@ namespace kavegep
                 }
             }
             Console.WriteLine();
+            Console.ReadLine();
         }
     }
 }
